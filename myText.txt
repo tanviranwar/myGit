@@ -1,0 +1,2 @@
+This is for git testing by GUI.
+I am writting this after commit above line.
